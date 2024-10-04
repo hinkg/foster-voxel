@@ -1,0 +1,2484 @@
+{
+  "BlockData": [
+    {
+      "DataName": "Stone",
+      "DisplayName": "Stone",
+      "AudioOnStep": "step_stone",
+      "AudioOnDestroy": "step_stone",
+      "AudioOnPlace": "step_stone",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 0
+        },
+        {
+          "X": 1,
+          "Y": 0
+        },
+        {
+          "X": 1,
+          "Y": 0
+        },
+        {
+          "X": 1,
+          "Y": 0
+        },
+        {
+          "X": 1,
+          "Y": 0
+        },
+        {
+          "X": 1,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Dirt",
+      "DisplayName": "Dirt",
+      "AudioOnStep": "step_dirt",
+      "AudioOnDestroy": "step_dirt",
+      "AudioOnPlace": "step_dirt",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 2,
+          "Y": 0
+        },
+        {
+          "X": 2,
+          "Y": 0
+        },
+        {
+          "X": 2,
+          "Y": 0
+        },
+        {
+          "X": 2,
+          "Y": 0
+        },
+        {
+          "X": 2,
+          "Y": 0
+        },
+        {
+          "X": 2,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Grass",
+      "DisplayName": "Grass",
+      "AudioOnStep": "step_grass",
+      "AudioOnDestroy": "step_grass",
+      "AudioOnPlace": "step_grass",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 3,
+          "Y": 1
+        },
+        {
+          "X": 3,
+          "Y": 1
+        },
+        {
+          "X": 3,
+          "Y": 1
+        },
+        {
+          "X": 3,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 0
+        },
+        {
+          "X": 3,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 4,
+          "Y": 1
+        },
+        {
+          "X": 4,
+          "Y": 1
+        },
+        {
+          "X": 4,
+          "Y": 1
+        },
+        {
+          "X": 4,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 4,
+          "Y": 0
+        }
+      ]
+    },
+    {
+      "DataName": "Leaves",
+      "DisplayName": "Leaves",
+      "AudioOnStep": "step_grass",
+      "AudioOnDestroy": "step_grass",
+      "AudioOnPlace": "step_grass",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        },
+        {
+          "X": 2,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Wood",
+      "DisplayName": "Wood",
+      "AudioOnStep": "step_hard",
+      "AudioOnDestroy": "step_hard",
+      "AudioOnPlace": "step_hard",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 6,
+          "Y": 0
+        },
+        {
+          "X": 6,
+          "Y": 0
+        },
+        {
+          "X": 6,
+          "Y": 0
+        },
+        {
+          "X": 6,
+          "Y": 0
+        },
+        {
+          "X": 7,
+          "Y": 0
+        },
+        {
+          "X": 7,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "BirchWood",
+      "DisplayName": "BirchWood",
+      "AudioOnStep": "step_hard",
+      "AudioOnDestroy": "step_hard",
+      "AudioOnPlace": "step_hard",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 6,
+          "Y": 1
+        },
+        {
+          "X": 6,
+          "Y": 1
+        },
+        {
+          "X": 6,
+          "Y": 1
+        },
+        {
+          "X": 6,
+          "Y": 1
+        },
+        {
+          "X": 7,
+          "Y": 0
+        },
+        {
+          "X": 7,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Sand",
+      "DisplayName": "Sand",
+      "AudioOnStep": "step_sand",
+      "AudioOnDestroy": "step_sand",
+      "AudioOnPlace": "step_sand",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 9,
+          "Y": 0
+        },
+        {
+          "X": 9,
+          "Y": 0
+        },
+        {
+          "X": 9,
+          "Y": 0
+        },
+        {
+          "X": 9,
+          "Y": 0
+        },
+        {
+          "X": 9,
+          "Y": 0
+        },
+        {
+          "X": 9,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Sandstone",
+      "DisplayName": "Sandstone",
+      "AudioOnStep": "step_stone",
+      "AudioOnDestroy": "step_stone",
+      "AudioOnPlace": "step_stone",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 9,
+          "Y": 1
+        },
+        {
+          "X": 9,
+          "Y": 1
+        },
+        {
+          "X": 9,
+          "Y": 1
+        },
+        {
+          "X": 9,
+          "Y": 1
+        },
+        {
+          "X": 10,
+          "Y": 1
+        },
+        {
+          "X": 10,
+          "Y": 1
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Planks",
+      "DisplayName": "Wooden Planks",
+      "AudioOnStep": "step_hard",
+      "AudioOnDestroy": "step_hard",
+      "AudioOnPlace": "step_hard",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 8,
+          "Y": 0
+        },
+        {
+          "X": 8,
+          "Y": 0
+        },
+        {
+          "X": 8,
+          "Y": 0
+        },
+        {
+          "X": 8,
+          "Y": 0
+        },
+        {
+          "X": 8,
+          "Y": 0
+        },
+        {
+          "X": 8,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "BirchPlanks",
+      "DisplayName": "Birch Planks",
+      "AudioOnStep": "step_hard",
+      "AudioOnDestroy": "step_hard",
+      "AudioOnPlace": "step_hard",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 8,
+          "Y": 1
+        },
+        {
+          "X": 8,
+          "Y": 1
+        },
+        {
+          "X": 8,
+          "Y": 1
+        },
+        {
+          "X": 8,
+          "Y": 1
+        },
+        {
+          "X": 8,
+          "Y": 1
+        },
+        {
+          "X": 8,
+          "Y": 1
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Water",
+      "DisplayName": "Water",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": true,
+      "IsLiquid": true,
+      "Textures": [
+        {
+          "X": 10,
+          "Y": 0
+        },
+        {
+          "X": 10,
+          "Y": 0
+        },
+        {
+          "X": 10,
+          "Y": 0
+        },
+        {
+          "X": 10,
+          "Y": 0
+        },
+        {
+          "X": 10,
+          "Y": 0
+        },
+        {
+          "X": 10,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Lava",
+      "DisplayName": "Lava",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": true,
+      "IsTranslucent": false,
+      "IsLiquid": true,
+      "Textures": [
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Snow",
+      "DisplayName": "Snow",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 5,
+          "Y": 0
+        },
+        {
+          "X": 5,
+          "Y": 0
+        },
+        {
+          "X": 5,
+          "Y": 0
+        },
+        {
+          "X": 5,
+          "Y": 0
+        },
+        {
+          "X": 5,
+          "Y": 0
+        },
+        {
+          "X": 5,
+          "Y": 0
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "StoneCobble",
+      "DisplayName": "Cobblestone",
+      "AudioOnStep": "step_stone",
+      "AudioOnDestroy": "step_stone",
+      "AudioOnPlace": "step_stone",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 1
+        },
+        {
+          "X": 1,
+          "Y": 1
+        },
+        {
+          "X": 1,
+          "Y": 1
+        },
+        {
+          "X": 1,
+          "Y": 1
+        },
+        {
+          "X": 1,
+          "Y": 1
+        },
+        {
+          "X": 1,
+          "Y": 1
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Clay",
+      "DisplayName": "Clay",
+      "AudioOnStep": "step_dirt",
+      "AudioOnDestroy": "step_dirt",
+      "AudioOnPlace": "step_dirt",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 2
+        },
+        {
+          "X": 1,
+          "Y": 2
+        },
+        {
+          "X": 1,
+          "Y": 2
+        },
+        {
+          "X": 1,
+          "Y": 2
+        },
+        {
+          "X": 1,
+          "Y": 2
+        },
+        {
+          "X": 1,
+          "Y": 2
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Gravel",
+      "DisplayName": "Gravel",
+      "AudioOnStep": "step_dirt",
+      "AudioOnDestroy": "step_dirt",
+      "AudioOnPlace": "step_dirt",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 2,
+          "Y": 2
+        },
+        {
+          "X": 2,
+          "Y": 2
+        },
+        {
+          "X": 2,
+          "Y": 2
+        },
+        {
+          "X": 2,
+          "Y": 2
+        },
+        {
+          "X": 2,
+          "Y": 2
+        },
+        {
+          "X": 2,
+          "Y": 2
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "StoneBricks",
+      "DisplayName": "Stone Bricks",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 4,
+          "Y": 2
+        },
+        {
+          "X": 4,
+          "Y": 2
+        },
+        {
+          "X": 4,
+          "Y": 2
+        },
+        {
+          "X": 4,
+          "Y": 2
+        },
+        {
+          "X": 4,
+          "Y": 2
+        },
+        {
+          "X": 4,
+          "Y": 2
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "StoneSmooth",
+      "DisplayName": "Polished Stone",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 2,
+          "Y": 3
+        },
+        {
+          "X": 2,
+          "Y": 3
+        },
+        {
+          "X": 2,
+          "Y": 3
+        },
+        {
+          "X": 2,
+          "Y": 3
+        },
+        {
+          "X": 2,
+          "Y": 3
+        },
+        {
+          "X": 2,
+          "Y": 3
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "MetalBlock",
+      "DisplayName": "Block of Metal",
+      "AudioOnStep": "step_stone",
+      "AudioOnDestroy": "step_stone",
+      "AudioOnPlace": "step_stone",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 5,
+          "Y": 2
+        },
+        {
+          "X": 5,
+          "Y": 2
+        },
+        {
+          "X": 5,
+          "Y": 2
+        },
+        {
+          "X": 5,
+          "Y": 2
+        },
+        {
+          "X": 5,
+          "Y": 2
+        },
+        {
+          "X": 5,
+          "Y": 2
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "GoldBlock",
+      "DisplayName": "Block of Gold",
+      "AudioOnStep": "step_stone",
+      "AudioOnDestroy": "step_stone",
+      "AudioOnPlace": "step_stone",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 6,
+          "Y": 2
+        },
+        {
+          "X": 6,
+          "Y": 2
+        },
+        {
+          "X": 6,
+          "Y": 2
+        },
+        {
+          "X": 6,
+          "Y": 2
+        },
+        {
+          "X": 6,
+          "Y": 2
+        },
+        {
+          "X": 6,
+          "Y": 2
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "CrystalBlock",
+      "DisplayName": "Crystal",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": true,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 7,
+          "Y": 2
+        },
+        {
+          "X": 7,
+          "Y": 2
+        },
+        {
+          "X": 7,
+          "Y": 2
+        },
+        {
+          "X": 7,
+          "Y": 2
+        },
+        {
+          "X": 7,
+          "Y": 2
+        },
+        {
+          "X": 7,
+          "Y": 2
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "ClayBricks",
+      "DisplayName": "Clay Bricks",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 3,
+          "Y": 3
+        },
+        {
+          "X": 3,
+          "Y": 3
+        },
+        {
+          "X": 3,
+          "Y": 3
+        },
+        {
+          "X": 3,
+          "Y": 3
+        },
+        {
+          "X": 3,
+          "Y": 3
+        },
+        {
+          "X": 3,
+          "Y": 3
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Dynamite",
+      "DisplayName": "TNT",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 4,
+          "Y": 3
+        },
+        {
+          "X": 4,
+          "Y": 3
+        },
+        {
+          "X": 4,
+          "Y": 3
+        },
+        {
+          "X": 4,
+          "Y": 3
+        },
+        {
+          "X": 6,
+          "Y": 3
+        },
+        {
+          "X": 5,
+          "Y": 3
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolDarkGrey",
+      "DisplayName": "Dark Grey Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 4
+        },
+        {
+          "X": 0,
+          "Y": 4
+        },
+        {
+          "X": 0,
+          "Y": 4
+        },
+        {
+          "X": 0,
+          "Y": 4
+        },
+        {
+          "X": 0,
+          "Y": 4
+        },
+        {
+          "X": 0,
+          "Y": 4
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolLightGrey",
+      "DisplayName": "Grey Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 4
+        },
+        {
+          "X": 1,
+          "Y": 4
+        },
+        {
+          "X": 1,
+          "Y": 4
+        },
+        {
+          "X": 1,
+          "Y": 4
+        },
+        {
+          "X": 1,
+          "Y": 4
+        },
+        {
+          "X": 1,
+          "Y": 4
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolDarkRed",
+      "DisplayName": "Red Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 5
+        },
+        {
+          "X": 0,
+          "Y": 5
+        },
+        {
+          "X": 0,
+          "Y": 5
+        },
+        {
+          "X": 0,
+          "Y": 5
+        },
+        {
+          "X": 0,
+          "Y": 5
+        },
+        {
+          "X": 0,
+          "Y": 5
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolLightRed",
+      "DisplayName": "Pink Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 5
+        },
+        {
+          "X": 1,
+          "Y": 5
+        },
+        {
+          "X": 1,
+          "Y": 5
+        },
+        {
+          "X": 1,
+          "Y": 5
+        },
+        {
+          "X": 1,
+          "Y": 5
+        },
+        {
+          "X": 1,
+          "Y": 5
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolDarkGreen",
+      "DisplayName": "Dark Green Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 6
+        },
+        {
+          "X": 0,
+          "Y": 6
+        },
+        {
+          "X": 0,
+          "Y": 6
+        },
+        {
+          "X": 0,
+          "Y": 6
+        },
+        {
+          "X": 0,
+          "Y": 6
+        },
+        {
+          "X": 0,
+          "Y": 6
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolLightGreen",
+      "DisplayName": "Green Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 6
+        },
+        {
+          "X": 1,
+          "Y": 6
+        },
+        {
+          "X": 1,
+          "Y": 6
+        },
+        {
+          "X": 1,
+          "Y": 6
+        },
+        {
+          "X": 1,
+          "Y": 6
+        },
+        {
+          "X": 1,
+          "Y": 6
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolDarkYellow",
+      "DisplayName": "Brown Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 7
+        },
+        {
+          "X": 0,
+          "Y": 7
+        },
+        {
+          "X": 0,
+          "Y": 7
+        },
+        {
+          "X": 0,
+          "Y": 7
+        },
+        {
+          "X": 0,
+          "Y": 7
+        },
+        {
+          "X": 0,
+          "Y": 7
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolLightYellow",
+      "DisplayName": "Yellow Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 7
+        },
+        {
+          "X": 1,
+          "Y": 7
+        },
+        {
+          "X": 1,
+          "Y": 7
+        },
+        {
+          "X": 1,
+          "Y": 7
+        },
+        {
+          "X": 1,
+          "Y": 7
+        },
+        {
+          "X": 1,
+          "Y": 7
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolDarkBlue",
+      "DisplayName": "Blue Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 8
+        },
+        {
+          "X": 0,
+          "Y": 8
+        },
+        {
+          "X": 0,
+          "Y": 8
+        },
+        {
+          "X": 0,
+          "Y": 8
+        },
+        {
+          "X": 0,
+          "Y": 8
+        },
+        {
+          "X": 0,
+          "Y": 8
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolLightBlue",
+      "DisplayName": "Light Blue Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 8
+        },
+        {
+          "X": 1,
+          "Y": 8
+        },
+        {
+          "X": 1,
+          "Y": 8
+        },
+        {
+          "X": 1,
+          "Y": 8
+        },
+        {
+          "X": 1,
+          "Y": 8
+        },
+        {
+          "X": 1,
+          "Y": 8
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolDarkPurple",
+      "DisplayName": "Purple Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 9
+        },
+        {
+          "X": 0,
+          "Y": 9
+        },
+        {
+          "X": 0,
+          "Y": 9
+        },
+        {
+          "X": 0,
+          "Y": 9
+        },
+        {
+          "X": 0,
+          "Y": 9
+        },
+        {
+          "X": 0,
+          "Y": 9
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolLightPurple",
+      "DisplayName": "Magenta Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 9
+        },
+        {
+          "X": 1,
+          "Y": 9
+        },
+        {
+          "X": 1,
+          "Y": 9
+        },
+        {
+          "X": 1,
+          "Y": 9
+        },
+        {
+          "X": 1,
+          "Y": 9
+        },
+        {
+          "X": 1,
+          "Y": 9
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolCyan",
+      "DisplayName": "Cyan Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 10
+        },
+        {
+          "X": 0,
+          "Y": 10
+        },
+        {
+          "X": 0,
+          "Y": 10
+        },
+        {
+          "X": 0,
+          "Y": 10
+        },
+        {
+          "X": 0,
+          "Y": 10
+        },
+        {
+          "X": 0,
+          "Y": 10
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolOrange",
+      "DisplayName": "Orange Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 1,
+          "Y": 10
+        },
+        {
+          "X": 1,
+          "Y": 10
+        },
+        {
+          "X": 1,
+          "Y": 10
+        },
+        {
+          "X": 1,
+          "Y": 10
+        },
+        {
+          "X": 1,
+          "Y": 10
+        },
+        {
+          "X": 1,
+          "Y": 10
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "WoolWhite",
+      "DisplayName": "White Wool",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 0,
+          "Y": 11
+        },
+        {
+          "X": 0,
+          "Y": 11
+        },
+        {
+          "X": 0,
+          "Y": 11
+        },
+        {
+          "X": 0,
+          "Y": 11
+        },
+        {
+          "X": 0,
+          "Y": 11
+        },
+        {
+          "X": 0,
+          "Y": 11
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Pumpkin",
+      "DisplayName": "Pumpkin",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 5
+        },
+        {
+          "X": 2,
+          "Y": 4
+        },
+        {
+          "X": 2,
+          "Y": 4
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    },
+    {
+      "DataName": "Melon",
+      "DisplayName": "Melon",
+      "AudioOnStep": "",
+      "AudioOnDestroy": "",
+      "AudioOnPlace": "",
+      "IsLight": false,
+      "IsTranslucent": false,
+      "IsLiquid": false,
+      "Textures": [
+        {
+          "X": 3,
+          "Y": 5
+        },
+        {
+          "X": 3,
+          "Y": 5
+        },
+        {
+          "X": 3,
+          "Y": 5
+        },
+        {
+          "X": 3,
+          "Y": 5
+        },
+        {
+          "X": 3,
+          "Y": 4
+        },
+        {
+          "X": 3,
+          "Y": 4
+        }
+      ],
+      "ClimateOverlayTextures": [
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        },
+        {
+          "X": 0,
+          "Y": 1
+        }
+      ]
+    }
+  ]
+}

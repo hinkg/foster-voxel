@@ -1,0 +1,67 @@
+{
+    "GenerationData": {
+        "WaterBlock": "Water",
+        "BeachBlock": "Sand"
+    },
+    "TopLayerData": [
+        {
+            "Surface": "Grass",
+            "Subsurface": "Dirt",
+            "Depth": 2,
+            "Temperature": 0.0,
+            "Humidity": -0.2
+        },
+        {
+            "Surface": "Sand",
+            "Subsurface": "Sand",
+            "Depth": 3,
+            "Temperature": 1.0,
+            "Humidity": -1.0
+        },
+        {
+            "Surface": "Snow",
+            "Subsurface": "Dirt",
+            "Depth": 2,
+            "Temperature": -1.0,
+            "Humidity": -1.0
+        }
+    ],
+    "DecoratorData": [
+        {
+            "$DecoratorType": "SmallTree",
+            "DataName": "OakTree",
+            "Log": "Wood",
+            "Leaves": "Leaves",
+            "Height": 4,
+            "HeightVariation": 2,
+            "Frequency": 0.5,
+            "Temperature": 0.0,
+            "Humidity": 0.0,
+            "ClimateRange": 0.5
+        },
+        {
+            "$DecoratorType": "SmallTree",
+            "DataName": "JungleTree",
+            "Log": "Wood",
+            "Leaves": "Leaves",
+            "Height": 5,
+            "HeightVariation": 4,
+            "Frequency": 0.8,
+            "Temperature": 1.0,
+            "Humidity": 1.0,
+            "ClimateRange": 0.3
+        },
+        {
+            "$DecoratorType": "SmallTree",
+            "DataName": "BirchTree",
+            "Log": "BirchWood",
+            "Leaves": "Leaves",
+            "Height": 4,
+            "HeightVariation": 2,
+            "Frequency": 0.3,
+            "Temperature": 0.0,
+            "Humidity": 0.0,
+            "ClimateRange": 0.5
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+obj
+bin
+autosave/
+*.blend
+*.sln
+*.aseprite
+todo
+.vs
+*.ase
+*.psd
+.vscode/
+Foster.Framework/Platform/build

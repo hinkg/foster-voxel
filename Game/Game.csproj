@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <OutputType>WinExe</OutputType>
+    <OptimizationPreference>Speed</OptimizationPreference>
+    <StackTraceSupport>false</StackTraceSupport>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <UseSystemResourceKeys>true</UseSystemResourceKeys>
+    <PublishSingleFile>true</PublishSingleFile>
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>None</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../Foster.Framework/Framework/Foster.Framework.csproj" />
+    <ProjectReference Include="../Foster.Audio/Foster.Audio/Foster.Audio.csproj" />
+    <PackageReference Include="SharpGLTF.Core" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\Assets\**\*.glb" LinkBase="Assets" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\Assets\**\*.png" LinkBase="Assets" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\Assets\**\*.glsl" LinkBase="Assets" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\Assets\**\*.ttf" LinkBase="Assets" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\Assets\**\*.json" LinkBase="Assets" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\Assets\**\*.wav" LinkBase="Assets" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>
